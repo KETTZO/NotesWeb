@@ -1,0 +1,11 @@
+com\notesweb\notesweb\proyecto\FileUploadServlet.class
+com\notesweb\notesweb\proyecto\Registro_Servlet.class
+com\notesweb\notesweb\proyecto\EjecucionesUsuario.class
+com\notesweb\notesweb\proyecto\Usuario.class
+com\notesweb\notesweb\proyecto\EditarEmpleado_Servlet.class
+com\notesweb\notesweb\proyecto\resources\JavaEE8Resource.class
+com\notesweb\notesweb\proyecto\GuardarNotas_Servlet.class
+com\notesweb\notesweb\proyecto\InicioSesion_Servlet.class
+com\notesweb\notesweb\proyecto\Notas.class
+com\notesweb\notesweb\proyecto\TraerNotas_Servlet.class
+com\notesweb\notesweb\proyecto\JAXRSConfiguration.class
